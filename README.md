@@ -1,7 +1,7 @@
 # 仿今日头条 webapp
 <br>
 ## 主要使用到
-<br>
+
 * vue.js 2.0 
 * vue-router 
 * vuex 
@@ -19,5 +19,3 @@
 * npm install(还是建议使用cnpm,npm实在太慢了)
 * npm run dev
 		
-		
-
