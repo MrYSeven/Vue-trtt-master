@@ -9,9 +9,14 @@
 * vue第三方组件 饿了么 mint-ui 
 * 聚合数据API，在开发环境使用 proxyTable进行代理转发
 ## 其它		
-由于聚合API的问题，每次只能获得一页数据(没分页)，
+    由于聚合API的问题，每次只能获得一页数据(没分页)，
 		也没时间自己再去搞个后台做数据，所以webapp中也做了一些妥协，
 		比如为了性能去掉keep-alive等，以后再继续改进。。	
+
+## 截图
+![image](https://github.com/MrYSeven/Vue-trtt-master/blob/master/screenshots/1.png)
+###### 
+![image](https://github.com/MrYSeven/Vue-trtt-master/blob/master/screenshots/2.png)
 
 
 ## 如何使用
